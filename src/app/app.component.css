@@ -1,0 +1,17 @@
+header {
+  background-color: #636363;
+  display: flex;
+  padding: 35px;
+  justify-content: center;
+  align-items: center;
+}
+
+header h1 {
+  color: #fff;
+}
+
+main {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+}
